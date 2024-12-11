@@ -101,7 +101,8 @@ To help kids with ASD
 
 - Child can use the device/app on their own or with their guardians​
 
-**Technical environment**
+### Technical environment
+
 - Devices with a browser (main focus is on a smart watch)​
 
 ​
