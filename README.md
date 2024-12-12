@@ -1,4 +1,4 @@
-# EmotionaAI
+# EmotionAI
 AI art in teaching emotional intelligence to kids with ASD. Interactive prototypes for a smartwatch and a responsive website. Created with Figma.
 
 **UI & UX Design | Figma | Smartwatch | Website**
@@ -131,7 +131,7 @@ To help kids with ASD
 
 - Sam’s mother, Martha, has been at work all day and is finally home.
 - She tries to ask Sam about his day but doesn’t get much of a response.
-- She decides to check how Sam has expressed his emotions through AI-generated art and opens the EmotionaAI website on her phone.
+- She decides to check how Sam has expressed his emotions through AI-generated art and opens the EmotionAI website on her phone.
 - She notices that Sam experienced negative emotions in the afternoon and shows him the artwork he created using his smartwatch to express his feelings.
 - Sam becomes interested in the result and explains what happened during his PE class. They then discuss the emotions Sam felt at that moment, what triggered them, and what he could do to calm himself down if something similar happens again.
 - Sam feels proud that he was able to create something so visually impressive by expressing his emotions, and Martha is happy that she was able to get her son to open up and talk about his feelings.
